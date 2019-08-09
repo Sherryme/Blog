@@ -3,9 +3,6 @@ description: '时不时更新我的新收获'
 keyword: '博客, 前端, 前端开发,雪莉'
 url: '' # your host
 
-# when build blog on server, if you don't need baseurl, you should leave this value blank.
-# 在服务器上建站时，如果你不需要子域名，请将这一格留空
-# if you're using GitHub Pages, set baseurl to your blog's .
 # 如果你在使用 GitHub Pages, 请将 baseurl 设置为你的网址的子域名
 # for example, if your site is "kaeyleo.github.io", then this url should leave blank.
 # 例如，当你的域名是 "kaeyleo.github.io"  时，这个 url 需要留空
@@ -47,7 +44,7 @@ social-share: true
 social-share-items: ['wechat', 'weibo', 'douban']
 
 # theme color 主题皮肤
-theme-color: 'default'  # pink or default
+theme-color: 'pink'  # pink or default
 
 # Post header background patterns (when the post no cover): circuitBoard, overlappingCircles, food, glamorous, ticTacToe, seaOfClouds
 postPatterns: 'circuitBoard'
@@ -57,6 +54,7 @@ postPatterns: 'circuitBoard'
 sns:
   email: 'mailto:i@sherry.cf'
   github: '//github.com/sherryme'
+  douban: 'jd_'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
