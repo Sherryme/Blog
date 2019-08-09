@@ -14,6 +14,7 @@ baseurl: ''
 nav:
   home: '/'
   tags: '/tags.html'
+  邮箱: 'http://www.sherry.cf/mail'
 
 # Footer
 footer:
