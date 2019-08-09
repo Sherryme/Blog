@@ -12,9 +12,10 @@ baseurl: ''
 
 # Navigation links
 nav:
-  home: '/'
-  tags: '/tags.html'
-  邮箱: 'http://www.sherry.cf/mail'
+  首页: '//sherry.cf/'
+  博客: '/'
+  分类: '/tags.html'
+  邮箱: '//sherry.cf/mail'
 
 # Footer
 footer:
