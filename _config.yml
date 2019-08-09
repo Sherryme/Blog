@@ -54,7 +54,7 @@ postPatterns: 'circuitBoard'
 sns:
   email: 'mailto:i@sherry.cf'
   github: '//github.com/sherryme'
-  douban: 'jd_'
+  douban: '//douban.con/jd_'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
