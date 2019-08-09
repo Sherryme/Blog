@@ -24,10 +24,10 @@ footer:
   since: 2019
 
 # Author 配置博主信息
-author: '廖柯宇'
-nickname: '悟空'
-bio: '前端开发者，热爱技术&设计，简单乐观爱创造'
-avatar: '/assets/img/profile.png'
+author: 'Sherry'
+nickname: 'Sherry'
+bio: '开发者，学生'
+avatar: 'https://i0.hdslb.com/bfs/face/c11b1639011b7a3afa57db4be7518764207b67e1.jpg@150w_150h.jpg'
 
 # Search
 search: true
@@ -56,7 +56,7 @@ postPatterns: 'circuitBoard'
 # SNS settings 配置社交网站
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
-  email: 'i@sherry.cf'
+  email: 'mailto:i@sherry.cf'
   github: '//github.com/sherryme'
 
 # Tags 设置标签
