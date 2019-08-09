@@ -1,4 +1,3 @@
-# Site settings 配置站点
 title: 'Sherrys Blog - 雪莉的网络实验室'
 description: '时不时更新我的新收获'
 keyword: '博客, 前端, 前端开发,雪莉'
@@ -23,7 +22,7 @@ nav:
 footer:
   since: 2019
 
-# Author 配置博主信息
+# 个人信息
 author: 'Sherry'
 nickname: 'Sherry'
 bio: '开发者，学生'
@@ -32,8 +31,8 @@ avatar: 'https://i0.hdslb.com/bfs/face/c11b1639011b7a3afa57db4be7518764207b67e1.
 # Search
 search: true
 
-# Night mode
-nightMode: true
+# 夜间模式
+nightMode: false
 
 # Comments 评论功能
 comments:
@@ -45,7 +44,7 @@ mathjax: true
 
 # Share
 social-share: true
-social-share-items: ['wechat', 'weibo', 'douban', 'twitter']
+social-share-items: ['wechat', 'weibo', 'douban']
 
 # theme color 主题皮肤
 theme-color: 'default'  # pink or default
