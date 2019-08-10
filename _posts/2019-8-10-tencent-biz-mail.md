@@ -2,7 +2,7 @@
 layout: post
 title: '打造腾讯企业邮专属邮箱登录页'
 date: 2019-08-10
-cover: 'https://s2.ax1x.com/2019/08/10/eXm6A0.md.png'
+cover: 'http://pic.jj20.com/up/allimg/1011/110916134009/161109134009-1.jpg'
 tags: 实验
 ---
 
