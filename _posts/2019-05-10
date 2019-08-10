@@ -1,0 +1,12 @@
+---
+layout: post
+title: '中文域名实验、新域名'
+date: 2019-05-10
+tags: 实验
+---
+
+首先访问https://myssl.com/punycode.html，输入中文域名，点击编码，即可得到中文域名的punycode形式，以此注册域名，配置好DNS后即可访问。
+
+实验成果：<a href="http://雪莉.ga">雪莉.ga</a>
+
+顺便摘的新玉米：<a href="http://five-hundred.ml">five-hundred.ml</a> （五百毫升，后续会做一些饮料相关的网页）
