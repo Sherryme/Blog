@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '标题'
-date: 2019-08-10
+title: '留言板'
+date: 2000-10-23
 cover: 'http://pic.jj20.com/up/allimg/1011/110916134009/161109134009-1.jpg'
 ---
 
