@@ -32,7 +32,16 @@ nightMode: false
 # Comments 评论功能
 comments:
   disqus: false
-  disqus_url: 'https://liaokeyu.disqus.com/embed.js'
+  disqus_url: '/embed.js'
+
+valine_comment:
+  enable: true
+# app_id
+  leancloud_appid: VvzRhYhKKyl8HTzU14mFxSh6-MdYXbMMI
+# app_key
+  leancloud_appkey: EofJFwy0757vA9L5sgNgaabX
+# placeholde
+  placeholder: "有何感想?"
 
 # MathJax 公式支持 by Ray-Eldath
 mathjax: false
