@@ -2,8 +2,6 @@
 layout: post
 title: '初次见面'
 date: 2019-08-10
-author: Jekyll
-cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
 tags: 随笔
 ---
 
