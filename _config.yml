@@ -51,7 +51,7 @@ postPatterns: 'food'
 sns:
   email: 'mailto:i@sherry.cf'
   github: '//github.com/sherryme'
-  douban: '//douban.com/jd_'
+  douban: '//douban.com/people/jd_'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
