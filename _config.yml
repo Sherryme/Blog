@@ -11,15 +11,16 @@ nav:
   分类: '/tags.html'
   雪莉邮箱: '//sherry.cf/mail'
   雪莉音乐: '//sherry.cf/music'
+  留言板: '//pls.gearhostpreview.com/leave-a-message/'
 
 # Footer
 footer:
-  since: 2019
+  since: 2016
 
 # 个人信息
 author: 'Sherry'
 nickname: 'Sherry'
-bio: '开发者，学生'
+bio: '前端开发者，学生'
 avatar: 'https://avatars0.githubusercontent.com/u/18429499?s=200'
 
 # Search
@@ -40,14 +41,13 @@ mathjax: false
 social-share: true
 social-share-items: ['wechat', 'weibo', 'douban', 'qq', 'qzone']
 
-# theme color 主题皮肤
+# 主题
 theme-color: 'pink'  # pink or default
 
 # Post header background patterns (when the post no cover): circuitBoard, overlappingCircles, food, glamorous, ticTacToe, seaOfClouds
 postPatterns: 'food'
 
-# SNS settings 配置社交网站
-# url: weibo, zhihu, twitter, instagram, juejin, facebook, dribble, uicn, jianshu, medium, linkedin
+# 配置社交网站
 sns:
   email: 'mailto:i@sherry.cf'
   github: '//github.com/sherryme'
