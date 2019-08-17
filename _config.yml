@@ -13,7 +13,7 @@ nav:
   雪莉音乐: '//sherry.cf/music'
   留言板: '/2000/10/23/leave-a-message.html'
 
-# Footer
+# 页脚
 footer:
   since: 2016
 
@@ -23,13 +23,13 @@ nickname: 'Sherry'
 bio: '前端开发者，学生'
 avatar: 'https://avatars0.githubusercontent.com/u/18429499?s=200'
 
-# Search
+# 搜索
 search: true
 
 # 夜间模式
 nightMode: false
 
-# Comments 评论功能
+# 评论功能
 comments:
   disqus: false
   disqus_url: '/embed.js'
@@ -46,7 +46,7 @@ valine_comment:
 # MathJax 公式支持 by Ray-Eldath
 mathjax: false
 
-# Share
+# 分享
 social-share: true
 social-share-items: ['wechat', 'weibo', 'douban', 'qq', 'qzone']
 
@@ -73,7 +73,7 @@ exclude: ['node_modules', 'dev', 'package.json', 'gulpfile.js', '.gitignore', 'R
 
 # Markdown
 markdown: kramdown
-highlighter: rouge
+highlighter: prism
 kramdown:
   input: GFM
 
