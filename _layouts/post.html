@@ -112,11 +112,6 @@
       </div>
       {% endif %}
     </section>
-    {% if site.comments.disqus %}
-    <section class="post-footer-item comment">
-        <div id="disqus_thread"></div>
-    </section>
-    {% endif %}
   </section>
 
   {% include footer.html %}
@@ -156,7 +151,7 @@
   </script>
   {% endif %}
 
-  <script src="{{ "/assets/js/prism.js" | relative_url }}"></script>
+  <script src="/assets/js/prism.js"></script>
   <script src="{{ "/assets/js/index.min.js" | relative_url }}"></script>
 </body>
 
