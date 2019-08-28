@@ -1,0 +1,42 @@
+---
+layout: post
+title: '02-JS-DOM'
+date: 2019-08-29
+cover: 'http://pic.jj20.com/up/allimg/1011/110916134009/161109134009-1.jpg'
+tags: JavaScript DOM
+---
+图片轮播是Web开发中最常见的组件之一，这是一篇用原生JavaScript实现简单图片轮播的教程。
+
+要实现图片轮播，首先我们要将图片轮播拆分为图片容器、图片、上一页按钮、下一页按钮、底部点选容器、底部点选按钮。
+
+下面我们用HTML代码表示。
+
+```
+...
+<body>
+   <div id="page">
+      <div id="ContainerWrap">
+            <div class="pre"><</div> 
+            <div id="picContainer">
+               <img src="https://via.placeholder.com/500x250?text=1" alt="1">
+               <img src="https://via.placeholder.com/500x250/000000?text=2" alt="2">
+               <img src="https://via.placeholder.com/500x250/66ccff?text=3" alt="3">
+               <img src="https://via.placeholder.com/500x250/000000?text=4" alt="4">
+               <img src="https://via.placeholder.com/500x250/66ccff?text=5" alt="5">
+            </div>
+            <div id="dotContainer">
+               <div class="dot active"></div>
+               <div class="dot"></div>
+               <div class="dot"></div>
+               <div class="dot"></div>
+               <div class="dot"></div>
+            </div>
+            <div class="next">></div>
+      </div>
+   </div>
+</body>
+...
+```
+未完待续……
+
+
